@@ -1,0 +1,3 @@
+﻿  text0731.c
+c:\users\topc290\documents\송수진\c\work\consoleappli0731\consoleappli0731\text0731.c(280): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ConsoleAppli0731.vcxproj -> C:\Users\TopC290\Documents\송수진\C\work\ConsoleAppli0731\Debug\ConsoleAppli0731.exe
